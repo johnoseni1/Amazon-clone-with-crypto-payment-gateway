@@ -20,7 +20,7 @@ const FooterBottom: React.FC<FooterBottomProps> = () => {
       <span className="text-sm whitespace-nowrap opacity-75 ml-4">
         &copy; 2020 | Developed by{" "}
         <a
-          href="https://github.com/MartsTech"
+          href="https://github.com/johnoseni1"
           className="text-[#f90] transition-all duration-200 
           border-b border-dotted border-[#f90]
           hover:text-[#dc143c] hover:border-[#dc143c]"
