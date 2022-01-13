@@ -25,7 +25,7 @@ const FooterBottom: React.FC<FooterBottomProps> = () => {
           border-b border-dotted border-[#f90]
           hover:text-[#dc143c] hover:border-[#dc143c]"
         >
-          Martin Velkov
+          John Oseni
         </a>
       </span>
       <span className="ml-auto flex items-center pl-4 m-4">
